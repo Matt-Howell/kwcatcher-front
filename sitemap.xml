@@ -4,78 +4,98 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>https://keywordcatcher.com/</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/sign-in</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/sign-up</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/tutorials/</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/privacy</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/terms</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/status</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/about</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/contact</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/credits</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/tutorials/how-to-analyze-serps</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/tutorials/how-to-find-longtail-keywords</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/tutorials/filtering-keywords</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/tutorials/export-keywords-to-csv</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/tutorials/viewing-your-reports</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/app</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/sites</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://keywordcatcher.com/reports</loc>
-  <lastmod>2023-04-27T19:48:47+00:00</lastmod>
+  <lastmod>2023-04-27T21:15:19+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
